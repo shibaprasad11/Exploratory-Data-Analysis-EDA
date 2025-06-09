@@ -13,7 +13,7 @@ Perform EDA on the Titanic dataset to uncover insights using visual and statisti
 ## 📁 Files Included
 - `titanic_eda.pdf` – Exported PDF report of the notebook
 - `titanic.ipynb` – Jupyter Notebook with all code and visualizations
-- `train.csv` – Dataset used for analysi
+- `train.csv` – Dataset used for analysis
 
 ## 🔍 Key Analyses
 - Missing value check
